@@ -23,7 +23,7 @@ header {
 
 p.title1 {
 	font-size: 36px;
-	color: #222;
+	color: red;
 	margin: 0;
 	position: absolute;
 	top: 241px;
@@ -32,7 +32,7 @@ p.title1 {
 
 p.title2 {
 	font-size: 72px;
-	color: #222;
+	color: red;
 	margin: 0;
 	position: absolute;
 	top: 270px;
